@@ -1,8 +1,8 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 
 int main() {
 
-	printf("Hello 00-01");
+	printf("こんにちわ");
 
 	return 0;
 
